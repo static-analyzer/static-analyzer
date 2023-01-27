@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World
+
+Currently, I'm studying at East China Normal University, focusing on the research of static analyzer.
+
+Email: static-analyzer@outlook.com
+
+Blog: https://static-analyzer.notion.site
 
 <!--
 **static-analyzer/static-analyzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
